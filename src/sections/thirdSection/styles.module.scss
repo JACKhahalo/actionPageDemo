@@ -1,0 +1,10 @@
+.thirdSection {
+  img {
+    width: 100%;
+    //与img同级
+    &.comment {
+      //padding: 16px;
+      border-radius: 20px;
+    }
+  }
+}
